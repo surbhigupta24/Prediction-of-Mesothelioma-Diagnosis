@@ -15,7 +15,7 @@ pip install tensorflow
 You need to have root privileges, an internet connection, and at least 1 GB of free space on your hard disk.
 Our scripts were originally developed on a Dell -15JPO9P computer with an Intel Core i7-8550U CPU 1.80GHz processor, with 8 GB of Random-Access Memory (RAM).
 
-Dataset preparation Download the Cervical cancer (Risk Factors) Data Set file at the following URL: https://archive.ics.uci.edu/ml/datasets/Mesothelioma%C3%A2%E2%82%AC%E2%84%A2s+disease+data+set+
+Dataset preparation Download the  Mesothelioma Data Set file at the following URL: https://archive.ics.uci.edu/ml/datasets/Mesothelioma%C3%A2%E2%82%AC%E2%84%A2s+disease+data+set+
 and update the path in the code as per location of file.
 
 To run the Python code on unbalanced data with full set of features: Execute Mesothelioma_Imbalance.py
